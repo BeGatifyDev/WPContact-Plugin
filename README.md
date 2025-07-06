@@ -38,3 +38,5 @@ Businesses needing GDPR-compliant, self-hosted contact forms
 
 🛠 Contributions
 Pull requests, feature suggestions, and issue reports are welcome to make this plugin even more powerful for the WordPress community.
+
+And this plugin can be upgraded or still work upon for more update.
