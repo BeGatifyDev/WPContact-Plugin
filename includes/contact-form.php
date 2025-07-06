@@ -149,7 +149,9 @@ function create_submissions_page()
 
 function show_contact_form()
 {
+    ob_start();
     include MY_PLUGIN_PATH . '/includes/templates/contact-form.php';
+    return ob_get_clean();
 }
 
 function create_rest_endpoint()
